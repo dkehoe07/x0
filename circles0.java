@@ -7,5 +7,13 @@ void setup() {
 
 // Next frame:  circle at (x,y). //
 void draw() {
-  ellipse( 50,50, 30,30 );       // Try changing the (x,y) and size.
+  ellipse( 50,50, 80,110 );       // Try changing the (x,y) and size.
+  
+ text("whats up doc?", 40, height -40);
+ 
+ 
 }
+
+
+
+
