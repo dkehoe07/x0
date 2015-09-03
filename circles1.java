@@ -15,6 +15,11 @@ void draw() {
   ellipse(x, y, 80, 80);
   ellipse(x+60, y+60, 40, 40);
   ellipse(x+90, y+90, 20, 20);
+  
+  x= x - .1 + .2;
+  y= y - .1 + .2;
+  
+  
  
   // Move them???? //--              x=  x + 2;  y=  y + 1;
   // Insert BREAK here ^
